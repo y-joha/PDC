@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "stddef.h": "c",
+        "stdlib.h": "c",
+        "unistd.h": "c",
+        "signal.h": "c",
+        "nbd_comm.h": "c",
+        "assert.h": "c",
+        "limits": "c"
+    }
+}

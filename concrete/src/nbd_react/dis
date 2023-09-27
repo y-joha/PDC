@@ -1,0 +1,17 @@
+#!/bin/bash
+
+sudo killall -r nbd_react
+sudo nbd-client -d /dev/nbd0
+sudo nbd-client -d /dev/nbd1
+sudo nbd-client -d /dev/nbd2
+sudo nbd-client -d /dev/nbd3
+sudo nbd-client -d /dev/nbd4
+sudo nbd-client -d /dev/nbd5
+sudo nbd-client -d /dev/nbd6
+sudo nbd-client -d /dev/nbd7
+sudo nbd-client -d /dev/nbd8
+sudo nbd-client -d /dev/nbd9
+sudo nbd-client -d /dev/nbd10
+sudo nbd-client -d /dev/nbd11
+sudo nbd-client -d /dev/nbd12
+
